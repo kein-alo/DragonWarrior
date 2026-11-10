@@ -1611,32 +1611,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\baoan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NET107_Lap trinh web co ban (.net) Su26-20260429T004358Z-3-001\\FirstTests\\FirstTests\\FirstTests.csproj",
+      "projectUniqueName": "C:\\Users\\baoan\\Desktop\\FPT_CAO_DANG\\SOF3091\\DragonWarrior\\Bài lab\\Lab 2\\FirstTests_PhanB\\FirstTests\\FirstTests.csproj",
       "projectName": "FirstTests",
-      "projectPath": "D:\\NET107_Lap trinh web co ban (.net) Su26-20260429T004358Z-3-001\\FirstTests\\FirstTests\\FirstTests.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\NET107_Lap trinh web co ban (.net) Su26-20260429T004358Z-3-001\\FirstTests\\FirstTests\\obj\\",
+      "projectPath": "C:\\Users\\baoan\\Desktop\\FPT_CAO_DANG\\SOF3091\\DragonWarrior\\Bài lab\\Lab 2\\FirstTests_PhanB\\FirstTests\\FirstTests.csproj",
+      "packagesPath": "C:\\Users\\baoan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\baoan\\Desktop\\FPT_CAO_DANG\\SOF3091\\DragonWarrior\\Bài lab\\Lab 2\\FirstTests_PhanB\\FirstTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\baoan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1656,7 +1648,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
@@ -1708,7 +1700,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
