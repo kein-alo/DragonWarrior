@@ -1,0 +1,3 @@
+Lưu ảnh chụp kết quả chạy thật vào thư mục này.
+A1_Khong_Wait_NoSuchElementException.png
+A2_Explicit_Wait_PASS.png
