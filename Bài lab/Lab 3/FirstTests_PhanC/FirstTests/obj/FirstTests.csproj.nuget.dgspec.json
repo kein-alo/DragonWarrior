@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT Polytechnic\\SOF3091 - Kiểm thử nâng cao cùng AI\\DragonWarrior\\Bài lab\\Lab 3\\FirstTests_PhanC\\FirstTests\\FirstTests.csproj": {}
+    "C:\\Users\\baoan\\Desktop\\FPT_CAO_DANG\\SOF3091\\DragonWarrior\\Bài lab\\Lab 3\\FirstTests_PhanC\\FirstTests\\FirstTests.csproj": {}
   },
   "projects": {
-    "D:\\FPT Polytechnic\\SOF3091 - Kiểm thử nâng cao cùng AI\\DragonWarrior\\Bài lab\\Lab 3\\FirstTests_PhanC\\FirstTests\\FirstTests.csproj": {
+    "C:\\Users\\baoan\\Desktop\\FPT_CAO_DANG\\SOF3091\\DragonWarrior\\Bài lab\\Lab 3\\FirstTests_PhanC\\FirstTests\\FirstTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Polytechnic\\SOF3091 - Kiểm thử nâng cao cùng AI\\DragonWarrior\\Bài lab\\Lab 3\\FirstTests_PhanC\\FirstTests\\FirstTests.csproj",
+        "projectUniqueName": "C:\\Users\\baoan\\Desktop\\FPT_CAO_DANG\\SOF3091\\DragonWarrior\\Bài lab\\Lab 3\\FirstTests_PhanC\\FirstTests\\FirstTests.csproj",
         "projectName": "FirstTests",
-        "projectPath": "D:\\FPT Polytechnic\\SOF3091 - Kiểm thử nâng cao cùng AI\\DragonWarrior\\Bài lab\\Lab 3\\FirstTests_PhanC\\FirstTests\\FirstTests.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Polytechnic\\SOF3091 - Kiểm thử nâng cao cùng AI\\DragonWarrior\\Bài lab\\Lab 3\\FirstTests_PhanC\\FirstTests\\obj\\",
+        "projectPath": "C:\\Users\\baoan\\Desktop\\FPT_CAO_DANG\\SOF3091\\DragonWarrior\\Bài lab\\Lab 3\\FirstTests_PhanC\\FirstTests\\FirstTests.csproj",
+        "packagesPath": "C:\\Users\\baoan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baoan\\Desktop\\FPT_CAO_DANG\\SOF3091\\DragonWarrior\\Bài lab\\Lab 3\\FirstTests_PhanC\\FirstTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\baoan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -98,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
