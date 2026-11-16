@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET107_Lap trinh web co ban (.net) Su26-20260429T004358Z-3-001\\ASM_SOF3091\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF1CD9B-A715-781B-FA64-A68A8318D60A}|ASM_SOF3091\\ASM_SOF3091_Y4.csproj|d:\\net107_lap trinh web co ban (.net) su26-20260429t004358z-3-001\\asm_sof3091\\asm_sof3091\\tests\\shoppingflowtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF1CD9B-A715-781B-FA64-A68A8318D60A}|ASM_SOF3091\\ASM_SOF3091_Y4.csproj|solutionrelative:asm_sof3091\\tests\\shoppingflowtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF1CD9B-A715-781B-FA64-A68A8318D60A}|ASM_SOF3091\\ASM_SOF3091_Y4.csproj|d:\\net107_lap trinh web co ban (.net) su26-20260429t004358z-3-001\\asm_sof3091\\asm_sof3091\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF1CD9B-A715-781B-FA64-A68A8318D60A}|ASM_SOF3091\\ASM_SOF3091_Y4.csproj|solutionrelative:asm_sof3091\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 405,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingFlowTests.cs",
+              "DocumentMoniker": "D:\\NET107_Lap trinh web co ban (.net) Su26-20260429T004358Z-3-001\\ASM_SOF3091\\ASM_SOF3091\\Tests\\ShoppingFlowTests.cs",
+              "RelativeDocumentMoniker": "ASM_SOF3091\\Tests\\ShoppingFlowTests.cs",
+              "ToolTip": "D:\\NET107_Lap trinh web co ban (.net) Su26-20260429T004358Z-3-001\\ASM_SOF3091\\ASM_SOF3091\\Tests\\ShoppingFlowTests.cs",
+              "RelativeToolTip": "ASM_SOF3091\\Tests\\ShoppingFlowTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T02:16:39.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "D:\\NET107_Lap trinh web co ban (.net) Su26-20260429T004358Z-3-001\\ASM_SOF3091\\ASM_SOF3091\\Pages\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "ASM_SOF3091\\Pages\\InventoryPage.cs",
+              "ToolTip": "D:\\NET107_Lap trinh web co ban (.net) Su26-20260429T004358Z-3-001\\ASM_SOF3091\\ASM_SOF3091\\Pages\\InventoryPage.cs",
+              "RelativeToolTip": "ASM_SOF3091\\Pages\\InventoryPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T02:16:24.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
