@@ -1,0 +1,44 @@
+﻿[
+  {
+    "CaseName": "TC01_Valid_StandardUser",
+    "Username": "standard_user",
+    "Password": "secret_sauce",
+    "IsSuccess": true,
+    "ExpectedMessage": "Products"
+  },
+  {
+    "CaseName": "TC02_Valid_PerformanceGlitchUser",
+    "Username": "performance_glitch_user",
+    "Password": "secret_sauce",
+    "IsSuccess": true,
+    "ExpectedMessage": "Products"
+  },
+  {
+    "CaseName": "TC03_Invalid_LockedOutUser",
+    "Username": "locked_out_user",
+    "Password": "secret_sauce",
+    "IsSuccess": false,
+    "ExpectedMessage": "Sorry, this user has been locked out"
+  },
+  {
+    "CaseName": "TC04_Invalid_WrongPassword",
+    "Username": "standard_user",
+    "Password": "wrong_password_123",
+    "IsSuccess": false,
+    "ExpectedMessage": "Username and password do not match"
+  },
+  {
+    "CaseName": "TC05_Boundary_EmptyUsername",
+    "Username": "",
+    "Password": "secret_sauce",
+    "IsSuccess": false,
+    "ExpectedMessage": "Username is required"
+  },
+  {
+    "CaseName": "TC06_Boundary_EmptyPassword",
+    "Username": "standard_user",
+    "Password": "",
+    "IsSuccess": false,
+    "ExpectedMessage": "Password is required"
+  }
+]
