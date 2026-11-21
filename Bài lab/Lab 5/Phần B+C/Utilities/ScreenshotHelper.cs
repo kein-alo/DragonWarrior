@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using OpenQA.Selenium;
 
-namespace Lab4_SOF3091.Utilities;
+namespace Lab5_SOF3091_phanBC.Utilities;
 
 public static class ScreenshotHelper
 {

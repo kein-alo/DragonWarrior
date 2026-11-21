@@ -2,9 +2,9 @@ using System;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
-using Lab4_SOF3091.Config;
+using Lab5_SOF3091_phanBC.Config;
 
-namespace Lab5_SOF3091_.Core;
+namespace Lab5_SOF3091_phanBC.Core;
 
 public static class DriverFactory
 {

@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Text.Json;
 
-namespace Lab4_SOF3091.Config;
+namespace Lab5_SOF3091_phanBC.Config;
 
 public static class ConfigReader
 {

@@ -1,8 +1,8 @@
 using System;
 using NUnit.Framework;
-using Lab4_SOF3091.Config;
+using Lab5_SOF3091_phanBC.Config;
 
-namespace Lab4_SOF3091.Tests;
+namespace Lab5_SOF3091_phanBC.Tests;
 
 [TestFixture]
 public class ConfigTests

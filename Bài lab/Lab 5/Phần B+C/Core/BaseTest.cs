@@ -2,10 +2,10 @@ using System;
 using NUnit.Framework;
 using NUnit.Framework.Interfaces;
 using OpenQA.Selenium;
-using Lab4_SOF3091.Config;
-using Lab4_SOF3091.Utilities;
+using Lab5_SOF3091_phanBC.Config;
+using Lab5_SOF3091_phanBC.Utilities;
 
-namespace Lab4_SOF3091.Core;
+namespace Lab5_SOF3091_phanBC.Core;
 
 public abstract class BaseTest
 {
