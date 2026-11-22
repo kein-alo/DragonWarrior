@@ -1,0 +1,3 @@
+Dat 2 anh chup ket qua test TRUOC va SAU refactor vao thu muc nay:
+- lab4_truoc_refactor.png
+- lab4_sau_refactor.png
