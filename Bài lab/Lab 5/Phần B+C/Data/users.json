@@ -40,5 +40,11 @@
 		"Password": "' OR '1'='1",
 		"ThanhCong": false,
 		"GhiChu": "BIEN - ky tu dac biet"
+	},
+	{
+		"Username": "problem_user",
+		"Password": "secret_sauce",
+		"ThanhCong": true,
+		"GhiChu": "Tai khoan problem_user"
 	}
 ]
