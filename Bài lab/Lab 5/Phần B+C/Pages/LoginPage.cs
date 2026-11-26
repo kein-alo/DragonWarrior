@@ -1,24 +1,25 @@
 using OpenQA.Selenium;
-using OpenQA.Selenium.Support.UI;
 
 namespace Lab5_SOF3091_phanBC.Pages;
 
-public class InventoryPage
+/// <summary>Page Object cho màn hình đăng nhập SauceDemo.</summary>
+public sealed class LoginPage
 {
     private readonly IWebDriver _driver;
+    public LoginPage(IWebDriver driver) => _driver = driver;
 
-    public InventoryPage(IWebDriver driver) { _driver = driver; }
-
-    public bool DaHienThi()
+    public void DangNhap(string username, string password)
     {
-        try
-        {
-            var wait = new WebDriverWait(_driver, TimeSpan.FromSeconds(3));
-            return wait.Until(d => d.FindElements(By.Id("inventory_container")).Count > 0);
-        }
-        catch (WebDriverTimeoutException)
-        {
-            return false;
-        }
+        Nhap(By.Id("user-name"), username);
+        Nhap(By.Id("password"), password);
+        _driver.FindElement(By.Id("login-button")).Click();
+    }
+
+    private void Nhap(By locator, string noiDung)
+    {
+        var element = _driver.FindElement(locator);
+        element.Clear();
+        if (!string.IsNullOrEmpty(noiDung))
+            element.SendKeys(noiDung);
     }
 }

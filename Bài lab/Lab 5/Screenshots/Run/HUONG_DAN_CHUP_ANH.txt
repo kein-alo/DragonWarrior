@@ -1,0 +1,1 @@
+Chụp ảnh minh chứng theo mục 8 trong Phần E_BAO_CAO.md và lưu tại thư mục này. Không sử dụng ảnh giả lập kết quả chạy test.

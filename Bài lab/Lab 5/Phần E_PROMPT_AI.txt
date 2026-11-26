@@ -1,0 +1,18 @@
+Bạn là chuyên gia kiểm thử phần mềm (QA Automation). Hãy tạo đúng 10 bộ dữ liệu kiểm thử đăng nhập cho website SauceDemo (https://www.saucedemo.com).
+
+Schema bắt buộc cho MỖI bộ dữ liệu:
+{
+  "Username": "string",
+  "Password": "string",
+  "ThanhCong": true hoặc false,
+  "GhiChu": "string"
+}
+
+Yêu cầu:
+1. Trả về đúng 10 object trong một JSON array hợp lệ, không thêm chú thích bên trong JSON.
+2. Tên thuộc tính và kiểu dữ liệu phải đúng schema; không được thiếu thuộc tính, không dùng null.
+3. Bao gồm trường hợp đăng nhập hợp lệ, tài khoản bị khóa, sai mật khẩu, tài khoản không tồn tại, username/password để trống và dữ liệu biên.
+4. ThanhCong biểu thị kỳ vọng đăng nhập thành công (true/false), không phải việc nút được bấm.
+5. GhiChu giải thích ngắn gọn mục đích của từng trường hợp.
+6. Không tự khẳng định tài khoản là hợp lệ nếu không có căn cứ. Phân biệt dữ liệu mẫu đã biết của SauceDemo với dữ liệu giả lập.
+7. Sau JSON, liệt kê riêng các giả định và cảnh báo về dữ liệu cần xác minh trước khi chạy.
