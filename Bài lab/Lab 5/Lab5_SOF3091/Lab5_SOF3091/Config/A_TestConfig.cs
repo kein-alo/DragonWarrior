@@ -1,4 +1,5 @@
-namespace Lab5_SOF3091_phanBC.Config;
+// PHẦN A - Cấu trúc tham số cấu hình (khớp tên khóa trong appsettings.json)
+namespace Lab5_SOF3091.Config;
 
 public sealed class TestConfig
 {

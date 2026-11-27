@@ -1,6 +1,7 @@
+// PHẦN D - Page Object trang đăng nhập SauceDemo
 using OpenQA.Selenium;
 
-namespace Lab5_SOF3091_phanBC.Pages;
+namespace Lab5_SOF3091.Pages;
 
 /// <summary>Page Object cho màn hình đăng nhập SauceDemo.</summary>
 public sealed class LoginPage

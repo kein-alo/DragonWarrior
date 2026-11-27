@@ -1,7 +1,8 @@
+// PHẦN D - Đọc Data/users.json (static, dùng cho TestCaseSource)
 using System.Text.Json;
-using Lab5_SOF3091_phanBC.Data;
+using Lab5_SOF3091.Data;
 
-namespace Lab5_SOF3091_phanBC.Utilities;
+namespace Lab5_SOF3091.Utilities;
 
 public static class JsonDataReader
 {

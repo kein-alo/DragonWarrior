@@ -1,4 +1,5 @@
-namespace Lab5_SOF3091_phanBC.Data;
+// PHẦN D - Mô hình một bộ dữ liệu; tên thuộc tính PHẢI khớp tên khóa trong users.json
+namespace Lab5_SOF3091.Data;
 
 public class UserData
 {

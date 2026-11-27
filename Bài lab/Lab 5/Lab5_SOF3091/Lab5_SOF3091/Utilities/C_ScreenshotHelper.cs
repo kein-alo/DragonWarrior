@@ -1,8 +1,9 @@
+// PHẦN C - Chụp ảnh khi test Failed (tách từ Bài 3)
 using System;
 using System.IO;
 using OpenQA.Selenium;
 
-namespace Lab5_SOF3091_phanBC.Utilities;
+namespace Lab5_SOF3091.Utilities;
 
 public static class ScreenshotHelper
 {

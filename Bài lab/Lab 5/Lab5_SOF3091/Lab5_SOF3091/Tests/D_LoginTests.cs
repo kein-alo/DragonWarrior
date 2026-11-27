@@ -1,9 +1,10 @@
+// PHẦN D - Data-Driven Testing: 1 hàm sinh N ca test từ Data/users.json (kế thừa BaseTest của Phần C)
 using NUnit.Framework;
-using Lab5_SOF3091_phanBC.Core;
-using Lab5_SOF3091_phanBC.Pages;
-using Lab5_SOF3091_phanBC.Utilities;
+using Lab5_SOF3091.Core;
+using Lab5_SOF3091.Pages;
+using Lab5_SOF3091.Utilities;
 
-namespace Lab5_SOF3091_phanBC.Tests;
+namespace Lab5_SOF3091.Tests;
 
 public class LoginTests : BaseTest
 {
